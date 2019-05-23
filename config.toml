@@ -1,6 +1,6 @@
 baseurl = "/"
 languageCode = "en-us"
-title = "Hugo Ivy"
+title = "Linux Course"
 theme = "hugo-ivy"
 googleAnalytics = ""
 disqusShortname = ""
@@ -34,7 +34,7 @@ footnotereturnlinkcontents = "↩"
 
 [params]
     description = "A Hugo theme ported from the static site generator Ivy."
-    footer = "&copy; [Yihui Xie](https://yihui.name) 2017 | [Github](https://github.com/yihui) | [Twitter](https://twitter.com/xieyihui)"
+    footer = "&copy; [Jian Huang](https://www.qjnu.edu.cn) 2019 | [Github](https://github.com/yihui) | [Twitter](https://twitter.com/xieyihui)"
 
   highlightjsVersion = "9.12.0"
   highlightjsCDN = "//cdn.bootcss.com"
