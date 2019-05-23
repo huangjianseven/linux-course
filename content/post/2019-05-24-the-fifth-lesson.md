@@ -14,3 +14,5 @@ tags:
     - asciiview
     
     <img src="/post/2019-05-24-the-fifth-lesson_files/elephant.jpg" alt="" width="80%"/>
+    
+    <img src="/post/2019-05-24-the-fifth-lesson_files/ascii_elephant.png" alt="" width="80%"/>
