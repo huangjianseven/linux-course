@@ -6,7 +6,7 @@ slug: the-fifth-lesson
 categories:
   - Course
 tags:
-  - lesson
+  - Attendance
 ---
 1. 一个例子揉合两种软件安装方式
     - rpm
