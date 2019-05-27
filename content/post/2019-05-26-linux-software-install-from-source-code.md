@@ -1,5 +1,5 @@
 ---
-title: Linux下通过编译源代码的方式安装软件（未完待续）
+title: Linux下通过编译源代码的方式安装软件
 author: 黄俭
 date: '2019-05-26'
 slug: linux-software-install-from-source-code
