@@ -17,7 +17,7 @@ tags:
     ```shell
     # cd /etc/yum.repos.d/
     # mkdir repo_bak
-    # mv *.repo /repo_bak
+    # mv *.repo repo_bak/
     ```
 3. 在CentOS中配置使用网易和阿里的开源镜像
     - 到网易和阿里开源镜像站点下载系统对应版本的repo文件
