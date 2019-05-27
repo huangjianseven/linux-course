@@ -54,3 +54,17 @@ tags:
      # yum -y install ImageMagick
      # yum -y groupinstall "Development tools"
     ```
+6. 补充
+    - 机房因为DNS服务器的问题，可能下载不了网易和阿里云的repo，建议如下操作
+       - 打开网卡配置文件
+          ```shell
+          # vi /etc/sysconfig/network-scripts/ifcfg-ens33
+          ```
+       - 在DNS1="10.1.2.14"下面加一行
+        ```shell
+         DNS2="222.172.200.68"
+        ```
+       - 重启网卡服务
+       ```shell
+        # service network restart
+       ```
