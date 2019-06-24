@@ -170,5 +170,16 @@ tags:
     - vsftp服务配置文件
     
        ```shell
-       # cd /etc/vsftpd/
+       # cd /etc/vsftpd/vsftpd.conf
        ```
+    - http网页服务配置文件
+    
+       ```shell
+       # vim /etc/httpd/conf/httpd.conf
+       ```
+    - php配置文件
+    
+       ```shell
+       # vim /etc/php.ini
+       ```
+    
