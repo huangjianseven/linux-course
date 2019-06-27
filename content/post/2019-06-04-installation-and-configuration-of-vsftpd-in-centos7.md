@@ -1,5 +1,5 @@
 ---
-title: CentOS7下安装配置vsftp服务器 
+title: CentOS7下安装配置vsftp服务器(pub) 
 author: 黄俭
 date: '2019-06-04'
 slug: installation-and-configuration-of-vsftpd-in-centos7
