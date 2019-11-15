@@ -15,7 +15,7 @@ tags:
 
     - 一个关于服务器配置的日本网站
 
-        www.server-world.info
+        https://www.server-world.info/en/
 
 1. rpm方式安装vsftpd
     - 从因特网上下载vsfptd的RPM包，必应搜索vsftpd，进入网站https://pkgs.org/download/vsftpd ，选择CentOS7适用的版本，文件名为vsftpd-3.0.2-25.el7.x86_64.rpm.
