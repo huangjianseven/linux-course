@@ -43,6 +43,13 @@ tags:
 
 1. CentOS 7下是沒有截屏軟件scrot的。如果非要裝的話，參見[這裏](https://centos.pkgs.org/7/psychotic-ninja-x86_64/scrot-0.8-12.el7.psychotic.x86_64.rpm.html)。當然，必須有圖形界面X11的支持。
 
+1. CentOS 7.7提供了Python3，試着用yum安裝了一下。然後升級pip用豆瓣的庫。
+
+```shell
+$  sudo python3 -m pip install -U pip -i https://pypi.douban.com/simple/
+
+```
+
 1. 最後發兩張screenfetch的圖
 
 ![](/post/2020-03-06-linux-VMware-files-2nd-Version_files/screenfetch.jpg)
