@@ -29,7 +29,7 @@ tags:
 
 1. 安裝traceroute，說明書參見[這裏](https://www.cnblogs.com/rigid/p/6904860.html?utm_source=itdadao&utm_medium=referral)。
    
-1. 試了一下靜態配置網卡，DNS要設爲192.168.127.2才可以連網
+1. 試了一下靜態配置網卡，DNS要設爲192.168.127.2才可以連網。
 
 1. ifup, ifdown, ip  addr命令複習，常用軟件安裝看[這裏](https://blog.csdn.net/xixingzhe2/article/details/82882098)。其中lrzsz是以前沒用過的，還有htop
 
@@ -39,7 +39,7 @@ tags:
 
 1. Mac下有一個archey命令，可以文本方式顯示系統概覽，Linux Mint下有screenfetch，但CentOS的庫中沒有。不過，有網友在Github中做了個單機版，可以在CentOS7中運行。參見[這裏](https://www.cnblogs.com/liangjiongyao/p/10134513.html)，剛開始讀不出顯卡型號，因爲缺少lspci命令，裝就好了。參見[這裏](https://blog.csdn.net/hl449006540/article/details/79778748)。然後，screenfetch可以結合scrot命令來進行截屏。參見[這裡](https://www.howtoforge.com/tutorial/how-to-take-screenshots-in-linux-with-scrot/)。
 
-1. lrzsz要結合Xshell來運作，上傳下載小文檔很方便。
+1. lrzsz要結合Xshell來運作，上傳下載小文檔很方便，參見[這裏](http://www.caodahua.cn/detail/5/)。
 
 1. 最後發兩張screenfetch的圖
 
