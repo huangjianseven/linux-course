@@ -41,7 +41,11 @@ tags:
 
 1. lrzsz要結合Xshell來運作，上傳下載小文檔很方便，參見[這裏](http://www.caodahua.cn/detail/5/)。
 
-1. CentOS 7下是沒有截屏軟件scrot的。如果非要裝的話，參見[這裏](https://centos.pkgs.org/7/psychotic-ninja-x86_64/scrot-0.8-12.el7.psychotic.x86_64.rpm.html)。當然，必須有圖形界面X11的支持。
+1. CentOS 7下是沒有截屏軟件scrot的。如果非要裝的話，參見[這裏](https://centos.pkgs.org/7/psychotic-ninja-x86_64/scrot-0.8-12.el7.psychotic.x86_64.rpm.html)。當然，必須有圖形界面X11的支持,使用說明還有一處可以參考，點[這裏](https://www.tecmint.com/take-screenshots-in-linux-using-scrot/amp/)。
+
+1. 上面這個網站，有很多的幹貨，比如owncloud或nexecloud就是我非常想配置的軟件，是一種家庭私有雲配置方案。
+
+1. 想在Linux下進行任務計劃的管理，用calcurse吧。參見[這裏](https://kknews.cc/code/vyr3xy2.html)。還有大名鼎鼎的[todotxt](http://todotxt.org/)。
 
 1. CentOS 7.7提供了Python3，試着用yum安裝了一下。然後升級pip用豆瓣的庫。
 
