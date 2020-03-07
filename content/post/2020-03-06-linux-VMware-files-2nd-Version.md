@@ -41,6 +41,8 @@ tags:
 
 1. lrzsz要結合Xshell來運作，上傳下載小文檔很方便，參見[這裏](http://www.caodahua.cn/detail/5/)。
 
+1. CentOS 7下是沒有截屏軟件scrot的。如果非要裝的話，參見[這裏](https://centos.pkgs.org/7/psychotic-ninja-x86_64/scrot-0.8-12.el7.psychotic.x86_64.rpm.html)。當然，必須有圖形界面X11的支持。
+
 1. 最後發兩張screenfetch的圖
 
 ![](/post/2020-03-06-linux-VMware-files-2nd-Version_files/screenfetch.jpg)
