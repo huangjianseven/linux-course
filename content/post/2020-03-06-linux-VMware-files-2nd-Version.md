@@ -39,7 +39,7 @@ tags:
 
 1. Mac下有一個archey命令，可以文本方式顯示系統概覽，Linux Mint下有screenfetch，但CentOS的庫中沒有。不過，有網友在Github中做了個單機版，可以在CentOS7中運行。參見[這裏](https://www.cnblogs.com/liangjiongyao/p/10134513.html)，剛開始讀不出顯卡型號，因爲缺少lspci命令，裝就好了。參見[這裏](https://blog.csdn.net/hl449006540/article/details/79778748)。然後，screenfetch可以結合scrot命令來進行截屏。參見[這裡](https://www.howtoforge.com/tutorial/how-to-take-screenshots-in-linux-with-scrot/)。
 
-1. lrzsz要結合Xshell來運作，上傳下載小文檔很方便，參見[這裏](http://www.caodahua.cn/detail/5/)。
+1. lrzsz要結合Xshell來運作，上傳下載小文檔很方便，參見[這裏](http://www.caodahua.cn/detail/5/)。Mac下也有类似Xshell的软件，那就是iTerm2. 稍为配置一下，也可以利用lrzsz传文件。参见[这里](https://github.com/aikuyun/iterm2-zmodem)。iTerm2自动远程登录，见[这里](https://github.com/bylucky/iterm2AutoLogin)。但是，这种登录方式无法用lrzsz传文件。
 
 1. CentOS 7下是沒有截屏軟件scrot的。如果非要裝的話，參見[這裏](https://centos.pkgs.org/7/psychotic-ninja-x86_64/scrot-0.8-12.el7.psychotic.x86_64.rpm.html)。當然，必須有圖形界面X11的支持,使用說明還有一處可以參考，點[這裏](https://www.tecmint.com/take-screenshots-in-linux-using-scrot/amp/)。
 
