@@ -105,6 +105,16 @@ tags:
        # gcc -o hello  file.c "编译C语言文件file.c，并生成可执行文件hello"
        # ./hello  "运行刚才生成的可执行文件"
        ```
+    - 查系统信息
+    
+       ```shell
+       # inxi -Fxzd
+       ```
+    - 查显示分辨率
+    
+       ```shell
+       # xrandr --verbose
+       ```
     - 网络相关
     
        ```shell
