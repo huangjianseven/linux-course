@@ -118,7 +118,7 @@ tags:
     - 网络相关
     
        ```shell
-       # ifconfig "显示网卡配置信息"
+       # ifconfig "显示网卡配置信息" Or  # ip a
        # service network restart "重启网络"
        # ping www.baidu.com "测试网络联通情况"
        # systemctl stop firewalld.service "关闭防火墙"
@@ -193,3 +193,5 @@ tags:
        # vim /etc/php.ini
        ```
  - yum的常用操作看[这里](https://www.tecmint.com/20-linux-yum-yellowdog-updater-modified-commands-for-package-mangement/#:~:text=YUM%20%28Yellowdog%20Updater%20Modified%29%20is%20an%20open-source%20command-line,remove%20or%20search%20software%20packages%20on%20a%20system.)
+ 
+ - 进程管理相关命令
